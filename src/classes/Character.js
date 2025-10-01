@@ -1,7 +1,7 @@
 export default class Character {
   constructor(name, type) {
     const allowedTypes = [
-      'Bowman',
+      'Bowerman',
       'Swordsman',
       'Magician',
       'Daemon',
